@@ -186,7 +186,7 @@
           </children>
           <children xmi:id="_W5nxtdOuEd-kJJUhn4W6mw" type="Name"/>
           <styles xmi:type="umlnotation:UMLFrameStyle" xmi:id="_W5nxttOuEd-kJJUhn4W6mw" fontName="Segoe UI" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W5nxt9OuEd-kJJUhn4W6mw" x="793" y="793" width="20822"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W5nxt9OuEd-kJJUhn4W6mw" x="793" y="793" width="14472"/>
         </children>
         <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_W5nxuNOuEd-kJJUhn4W6mw"/>
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_W5nxudOuEd-kJJUhn4W6mw" name="support_hide_pins"/>
