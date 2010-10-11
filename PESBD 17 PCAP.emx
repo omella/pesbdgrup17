@@ -262,7 +262,7 @@
     </eAnnotations>
     <node xmi:type="uml:InitialNode" xmi:id="_i2i2sNOuEd-kJJUhn4W6mw" outgoing="_IIHPwNOvEd-kJJUhn4W6mw"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_rp47oNOuEd-kJJUhn4W6mw" name="Determinar data limit presentació de sobres" outgoing="_gLGusNOvEd-kJJUhn4W6mw" incoming="_IIHPwNOvEd-kJJUhn4W6mw"/>
-    <node xmi:type="uml:OpaqueAction" xmi:id="_Y_Z9ANOvEd-kJJUhn4W6mw" name="Nomenament dels responsables de l'arcord marc" outgoing="_qV5HsNOvEd-kJJUhn4W6mw" incoming="_gLGusNOvEd-kJJUhn4W6mw"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_Y_Z9ANOvEd-kJJUhn4W6mw" name="Nomenament dels responsables de l'acord marc" outgoing="_qV5HsNOvEd-kJJUhn4W6mw" incoming="_gLGusNOvEd-kJJUhn4W6mw"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_lrWEINOvEd-kJJUhn4W6mw" name="Asignació dels responsables als sublots" outgoing="_O3UdQNOwEd-kJJUhn4W6mw" incoming="_qV5HsNOvEd-kJJUhn4W6mw"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_K65rANOwEd-kJJUhn4W6mw" name="Determinar data obertura de sobres A" outgoing="_W2It8NOwEd-kJJUhn4W6mw" incoming="_O3UdQNOwEd-kJJUhn4W6mw"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_QHz0wNOwEd-kJJUhn4W6mw" name="Determinar data obertura de sobres B" outgoing="_YeS-kNOwEd-kJJUhn4W6mw" incoming="_W2It8NOwEd-kJJUhn4W6mw"/>
