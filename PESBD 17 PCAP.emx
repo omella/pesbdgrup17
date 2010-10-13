@@ -1690,6 +1690,17 @@
               <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_nkut8tbsEd-eMcOpegy8TA" showStereotype="Label"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nkut89bsEd-eMcOpegy8TA" x="7779" y="8362"/>
             </children>
+            <children xmi:id="_5L-mkNbuEd-eMcOpegy8TA" element="_5L01kNbuEd-eMcOpegy8TA">
+              <children xmi:id="_5L-mk9buEd-eMcOpegy8TA" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_5L-mlNbuEd-eMcOpegy8TA" width="1320" height="1320"/>
+              </children>
+              <children xmi:id="_5L-mldbuEd-eMcOpegy8TA" type="Stereotype"/>
+              <children xmi:id="_5L-mltbuEd-eMcOpegy8TA" type="InPartitions"/>
+              <children xmi:id="_5L-ml9buEd-eMcOpegy8TA" type="Name"/>
+              <children xmi:id="_5L-mmNbuEd-eMcOpegy8TA" type="Parent"/>
+              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5L-mkdbuEd-eMcOpegy8TA" showStereotype="Label"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5L-mktbuEd-eMcOpegy8TA" x="7594" y="2753"/>
+            </children>
             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_fOOWBNbsEd-eMcOpegy8TA"/>
           </children>
           <children xmi:id="_fOOWBdbsEd-eMcOpegy8TA" type="Name"/>
@@ -1702,6 +1713,7 @@
     </eAnnotations>
     <node xmi:type="uml:InitialNode" xmi:id="_m21tMNbsEd-eMcOpegy8TA"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_nkut8NbsEd-eMcOpegy8TA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_5L01kNbuEd-eMcOpegy8TA" name="asd"/>
   </packagedElement>
   <profileApplication xmi:id="_xuiMitLvEd-k6KyaLa6b3g">
     <eAnnotations xmi:id="_xuiMi9LvEd-k6KyaLa6b3g" source="http://www.eclipse.org/uml2/2.0.0/UML">
