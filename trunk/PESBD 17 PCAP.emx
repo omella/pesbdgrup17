@@ -1391,7 +1391,7 @@
       <weight xmi:type="uml:LiteralInteger" xmi:id="_R3mlYdViEd-M1OcAr2YTmA" value="1"/>
     </edge>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_9_G00NbiEd-us-GEv1JLaA" name="SetDataLimitConvocatoria 001"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9_G00NbiEd-us-GEv1JLaA" name="SetDataLimitConvocatoria"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_-_MY0NbiEd-us-GEv1JLaA" name="AddResponsableAcordMarc"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="__PI5UNbiEd-us-GEv1JLaA" name="AssignResponsableSublot"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="__kv88NbiEd-us-GEv1JLaA" name="SetDataOberturaA"/>
