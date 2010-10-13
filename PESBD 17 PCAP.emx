@@ -390,7 +390,7 @@
         <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6ajBktblEd-us-GEv1JLaA" points="[28, -7, -221, 68]$[228, -52, -21, 23]"/>
       </edges>
     </contents>
-    <contents xmi:type="notation:Diagram" xmi:id="_lZnSgNbyEd-SgqPYa5KpmA" type="Usecase" name="DiagramaDeCasoDeUso1">
+    <contents xmi:type="notation:Diagram" xmi:id="_lZnSgNbyEd-SgqPYa5KpmA" type="Usecase" name="EntradaModificacióDades">
       <children xmi:id="_lx52sNbyEd-SgqPYa5KpmA" element="_lxwFsNbyEd-SgqPYa5KpmA">
         <children xmi:id="_lx52s9byEd-SgqPYa5KpmA" type="ImageCompartment">
           <layoutConstraint xmi:type="notation:Size" xmi:id="_lx52tNbyEd-SgqPYa5KpmA" width="1455" height="2381"/>
