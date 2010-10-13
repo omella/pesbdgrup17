@@ -78,7 +78,7 @@
         <children xmi:id="_MG_VhtbjEd-us-GEv1JLaA" type="Name"/>
         <children xmi:id="_MG_Vh9bjEd-us-GEv1JLaA" type="Parent"/>
         <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_MG_VgdbjEd-us-GEv1JLaA" showStereotype="Image"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MG_VgtbjEd-us-GEv1JLaA" x="10824" y="9240"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MG_VgtbjEd-us-GEv1JLaA" x="8580" y="10296"/>
       </children>
       <children xmi:id="_0XYlQdblEd-us-GEv1JLaA" element="_0XYlQNblEd-us-GEv1JLaA">
         <children xmi:id="_0XYlRNblEd-us-GEv1JLaA" type="ImageCompartment">
@@ -1396,7 +1396,7 @@
   <packagedElement xmi:type="uml:UseCase" xmi:id="__PI5UNbiEd-us-GEv1JLaA" name="AssignResponsableSublot"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="__kv88NbiEd-us-GEv1JLaA" name="SetDataOberturaA"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_A0yBcNbjEd-us-GEv1JLaA" name="SetDataOberturaB"/>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_MGsakNbjEd-us-GEv1JLaA" name="Membre del Comité"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_MGsakNbjEd-us-GEv1JLaA" name="Membre del Comité 001"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_RJpXENbjEd-us-GEv1JLaA" memberEnd="_RJzIENbjEd-us-GEv1JLaA _RJ85EdbjEd-us-GEv1JLaA" navigableOwnedEnd="_RJzIENbjEd-us-GEv1JLaA _RJ85EdbjEd-us-GEv1JLaA">
     <ownedEnd xmi:id="_RJzIENbjEd-us-GEv1JLaA" name="setDataLimitConvocatoria" visibility="private" type="_9_G00NbiEd-us-GEv1JLaA" association="_RJpXENbjEd-us-GEv1JLaA">
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJ85ENbjEd-us-GEv1JLaA" value="1"/>
