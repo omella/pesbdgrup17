@@ -1397,7 +1397,7 @@
           <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_aUjfodnREd-WFL4vhEFHYg"/>
         </children>
         <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_aUhqcdnREd-WFL4vhEFHYg" fontName="Segoe UI" showStereotype="Image"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aUhqctnREd-WFL4vhEFHYg" x="9240" y="7788"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aUhqctnREd-WFL4vhEFHYg" x="8184" y="7260"/>
       </children>
       <children xmi:id="_c9Dy8NnREd-WFL4vhEFHYg" element="_c873INnREd-WFL4vhEFHYg">
         <children xmi:id="_c9FoINnREd-WFL4vhEFHYg" type="ImageCompartment">
@@ -1410,7 +1410,7 @@
           <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_c9IrcdnREd-WFL4vhEFHYg"/>
         </children>
         <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_c9Dy8dnREd-WFL4vhEFHYg" fontName="Segoe UI" showStereotype="Image"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c9Dy8tnREd-WFL4vhEFHYg" x="9207" y="10949"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c9Dy8tnREd-WFL4vhEFHYg" x="8580" y="9504"/>
       </children>
       <children xmi:id="_e2gA0NnREd-WFL4vhEFHYg" element="_e2YFANnREd-WFL4vhEFHYg">
         <children xmi:id="_e2h2ANnREd-WFL4vhEFHYg" type="ImageCompartment">
@@ -3474,7 +3474,7 @@
   <packagedElement xmi:type="uml:UseCase" xmi:id="_BLyUwNb6Ed-dUeIK7XUfqg" name="publicarDubte"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_DfmxgNb6Ed-dUeIK7XUfqg" name="mostrarFAQ"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_FVn38Nb6Ed-dUeIK7XUfqg" name="Empleat Empresa"/>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_G3qScNb6Ed-dUeIK7XUfqg" name="Membre del Comité"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_G3qScNb6Ed-dUeIK7XUfqg" name="Cap del Comité"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_IpgqkNb6Ed-dUeIK7XUfqg" memberEnd="_Ipgqkdb6Ed-dUeIK7XUfqg _IpgqlNb6Ed-dUeIK7XUfqg" navigableOwnedEnd="_Ipgqkdb6Ed-dUeIK7XUfqg _IpgqlNb6Ed-dUeIK7XUfqg">
     <ownedEnd xmi:id="_Ipgqkdb6Ed-dUeIK7XUfqg" name="addDubte" visibility="private" type="_9M_j8Nb5Ed-dUeIK7XUfqg" association="_IpgqkNb6Ed-dUeIK7XUfqg">
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Ipgqk9b6Ed-dUeIK7XUfqg" value="1"/>
@@ -3566,8 +3566,12 @@
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ROhvQNnREd-WFL4vhEFHYg" value="1"/>
     </ownedEnd>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_aUZuoNnREd-WFL4vhEFHYg" name="Revisar Puntuació"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_c873INnREd-WFL4vhEFHYg" name="Actualitzar puntació"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_aUZuoNnREd-WFL4vhEFHYg" name="Demanar Document a Avaluador"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_c873INnREd-WFL4vhEFHYg" name="Notificar Creació Document">
+    <extensionPoint xmi:id="_kf9CMNoJEd-WFL4vhEFHYg" name="Puntodeextensión1"/>
+    <extensionPoint xmi:id="_k10kgNoJEd-WFL4vhEFHYg" name="Puntodeextensión2"/>
+    <extensionPoint xmi:id="_lInksNoJEd-WFL4vhEFHYg" name="Puntodeextensión3"/>
+  </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_e2YFANnREd-WFL4vhEFHYg" name="Veure Resultats"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_jvUJ4NnREd-WFL4vhEFHYg" memberEnd="_jvWmINnREd-WFL4vhEFHYg _jvbeoNnREd-WFL4vhEFHYg" navigableOwnedEnd="_jvWmINnREd-WFL4vhEFHYg _jvbeoNnREd-WFL4vhEFHYg">
     <ownedEnd xmi:id="_jvWmINnREd-WFL4vhEFHYg" name="veure Resultats" visibility="private" type="_e2YFANnREd-WFL4vhEFHYg" association="_jvUJ4NnREd-WFL4vhEFHYg">
