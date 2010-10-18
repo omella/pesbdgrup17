@@ -4893,7 +4893,7 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_32vzgtrUEd-z2sCt1a_K-w" value="1"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_32vzgdrUEd-z2sCt1a_K-w" value="1"/>
     </ownedAttribute>
-    <ownedAttribute xmi:id="_VkYhENrVEd-z2sCt1a_K-w" name="responsableAcordMarc" visibility="private" type="_9-LzMNrREd-z2sCt1a_K-w" association="_VkFmINrVEd-z2sCt1a_K-w">
+    <ownedAttribute xmi:id="_VkYhENrVEd-z2sCt1a_K-w" name="expert" visibility="private" type="_9-LzMNrREd-z2sCt1a_K-w" association="_VkFmINrVEd-z2sCt1a_K-w">
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_VkYhEtrVEd-z2sCt1a_K-w" value="*"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_VkYhEdrVEd-z2sCt1a_K-w"/>
     </ownedAttribute>
@@ -4901,7 +4901,7 @@
   <packagedElement xmi:type="uml:Class" xmi:id="_8GFpINrREd-z2sCt1a_K-w" name="Persona">
     <generalization xmi:id="_BGckoNrSEd-z2sCt1a_K-w" general="_9-LzMNrREd-z2sCt1a_K-w"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:Class" xmi:id="_9-LzMNrREd-z2sCt1a_K-w" name="ResponsableAcordMarc">
+  <packagedElement xmi:type="uml:Class" xmi:id="_9-LzMNrREd-z2sCt1a_K-w" name="Expert">
     <generalization xmi:id="_CvfmENrSEd-z2sCt1a_K-w" general="_8GFpINrREd-z2sCt1a_K-w"/>
     <generalization xmi:id="_DqEQkNrVEd-z2sCt1a_K-w" general="_8GFpINrREd-z2sCt1a_K-w"/>
     <generalization xmi:id="_N7fdENrVEd-z2sCt1a_K-w" general="_8GFpINrREd-z2sCt1a_K-w"/>
@@ -4933,7 +4933,7 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_eoiwktrSEd-z2sCt1a_K-w" value="1"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_eoiwkdrSEd-z2sCt1a_K-w" value="1"/>
     </ownedAttribute>
-    <ownedAttribute xmi:id="_fhGB0NrVEd-z2sCt1a_K-w" name="responsableAcordMarc" visibility="private" type="_9-LzMNrREd-z2sCt1a_K-w" association="_fgzG4NrVEd-z2sCt1a_K-w">
+    <ownedAttribute xmi:id="_fhGB0NrVEd-z2sCt1a_K-w" name="expert" visibility="private" type="_9-LzMNrREd-z2sCt1a_K-w" association="_fgzG4NrVEd-z2sCt1a_K-w">
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fhGB0trVEd-z2sCt1a_K-w" value="*"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fhGB0drVEd-z2sCt1a_K-w"/>
     </ownedAttribute>
