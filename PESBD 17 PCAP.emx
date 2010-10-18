@@ -3853,8 +3853,8 @@
     </edge>
   </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_9_G00NbiEd-us-GEv1JLaA" name="SetDataLimitConvocatoria"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_-_MY0NbiEd-us-GEv1JLaA" name="AddResponsableAcordMarc"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="__PI5UNbiEd-us-GEv1JLaA" name="AssignResponsableSublot"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_-_MY0NbiEd-us-GEv1JLaA" name="AddExpertAcordMarc"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="__PI5UNbiEd-us-GEv1JLaA" name="AssignExpertSublot"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="__kv88NbiEd-us-GEv1JLaA" name="SetDataOberturaA"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_A0yBcNbjEd-us-GEv1JLaA" name="SetDataOberturaB"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_MGsakNbjEd-us-GEv1JLaA" name="Membre del Comité"/>
