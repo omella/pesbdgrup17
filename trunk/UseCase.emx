@@ -1278,6 +1278,69 @@
       <ownedAttribute xmi:id="_qhFNEPS2Ed-fEdVde5j8Kg" name="persona" type="_oaxdIPSQEd-yC7EwVMSx9g"/>
       <ownedAttribute xmi:id="_qwHHkPS2Ed-fEdVde5j8Kg" name="sistema" type="_M7lmsPJ4Ed-ZZ5dGsVd3wA"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:Collaboration" xmi:id="_ILjR4PS3Ed-fEdVde5j8Kg" name="CalculaPuntuacioTecnica">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_J3--gPS3Ed-fEdVde5j8Kg" name="CalculaPuntuacioTecnica">
+        <eAnnotations xmi:id="_J4CB0PS3Ed-fEdVde5j8Kg" source="uml2.diagrams">
+          <contents xmi:type="notation:Diagram" xmi:id="_J4CB0fS3Ed-fEdVde5j8Kg" type="Sequence" element="_J3--gPS3Ed-fEdVde5j8Kg" name="CalculaPuntuacioTecnica" measurementUnit="Himetric">
+            <children xmi:id="_J4CB0vS3Ed-fEdVde5j8Kg" element="_J3--gPS3Ed-fEdVde5j8Kg">
+              <children xmi:id="_J4CB0_S3Ed-fEdVde5j8Kg" type="interaction_compartment">
+                <children xmi:id="_PdfOcPS3Ed-fEdVde5j8Kg" element="_PdbkEPS3Ed-fEdVde5j8Kg">
+                  <eAnnotations xmi:id="_PdgckPS3Ed-fEdVde5j8Kg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                    <details xmi:id="_PdgckfS3Ed-fEdVde5j8Kg" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                  </eAnnotations>
+                  <children xmi:id="_PdhDoPS3Ed-fEdVde5j8Kg" type="Stereotype"/>
+                  <children xmi:id="_PdhDofS3Ed-fEdVde5j8Kg" type="Name"/>
+                  <children xmi:id="_PdhqsPS3Ed-fEdVde5j8Kg" type="Parent"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_PdfOcfS3Ed-fEdVde5j8Kg" fontName="Segoe UI" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PdfOcvS3Ed-fEdVde5j8Kg" x="264" y="132" width="8942" height="9525"/>
+                </children>
+                <children xmi:id="_P0eyIPS3Ed-fEdVde5j8Kg" element="_P0agsPS3Ed-fEdVde5j8Kg">
+                  <eAnnotations xmi:id="_P0gAQPS3Ed-fEdVde5j8Kg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                    <details xmi:id="_P0gAQfS3Ed-fEdVde5j8Kg" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                  </eAnnotations>
+                  <children xmi:id="_P0gnUPS3Ed-fEdVde5j8Kg" type="Stereotype"/>
+                  <children xmi:id="_P0gnUfS3Ed-fEdVde5j8Kg" type="Name"/>
+                  <children xmi:id="_P0hOYPS3Ed-fEdVde5j8Kg" type="Parent"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_P0eyIfS3Ed-fEdVde5j8Kg" fontName="Segoe UI" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_P0eyIvS3Ed-fEdVde5j8Kg" x="264" y="132" width="8942" height="9525"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_J4CB1PS3Ed-fEdVde5j8Kg"/>
+              </children>
+              <children xmi:id="_J4CB1fS3Ed-fEdVde5j8Kg" type="Name"/>
+              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_J4CB1vS3Ed-fEdVde5j8Kg" fontName="Segoe UI" showStereotype="Label"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J4CB1_S3Ed-fEdVde5j8Kg" x="793" y="793"/>
+            </children>
+            <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_J4CB2PS3Ed-fEdVde5j8Kg"/>
+            <edges xmi:id="_ReLT0PS3Ed-fEdVde5j8Kg" element="_Rd2jsPS3Ed-fEdVde5j8Kg" source="_PdfOcPS3Ed-fEdVde5j8Kg" target="_P0eyIPS3Ed-fEdVde5j8Kg">
+              <children xmi:id="_ReL64PS3Ed-fEdVde5j8Kg" type="MessageNameLabel">
+                <children xmi:id="_ReL64vS3Ed-fEdVde5j8Kg" type="Stereotype"/>
+                <children xmi:id="_ReMh8PS3Ed-fEdVde5j8Kg" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ReL64fS3Ed-fEdVde5j8Kg" y="-317"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_ReLT0fS3Ed-fEdVde5j8Kg" fontName="Segoe UI" showStereotype="Text"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ReLT0vS3Ed-fEdVde5j8Kg" points="[0, 0, -348, 0]$[348, 0, 0, 0]"/>
+              <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RePlQPS3Ed-fEdVde5j8Kg" id="470:1640"/>
+              <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RePlQfS3Ed-fEdVde5j8Kg" id="512:0"/>
+            </edges>
+          </contents>
+        </eAnnotations>
+        <ownedConnector xmi:id="_Rd5nAfS3Ed-fEdVde5j8Kg">
+          <end xmi:id="_Rd6OEPS3Ed-fEdVde5j8Kg" role="_P0bHwPS3Ed-fEdVde5j8Kg"/>
+          <end xmi:id="_Rd6OEfS3Ed-fEdVde5j8Kg" role="_PdcLIPS3Ed-fEdVde5j8Kg"/>
+        </ownedConnector>
+        <lifeline xmi:id="_PdbkEPS3Ed-fEdVde5j8Kg" name="membre del Comité" represents="_PdcLIPS3Ed-fEdVde5j8Kg" coveredBy="_Rd2jsfS3Ed-fEdVde5j8Kg _Rd5nAPS3Ed-fEdVde5j8Kg"/>
+        <lifeline xmi:id="_P0agsPS3Ed-fEdVde5j8Kg" name="sistema" represents="_P0bHwPS3Ed-fEdVde5j8Kg" coveredBy="_Rd3KwPS3Ed-fEdVde5j8Kg _Rd4Y4PS3Ed-fEdVde5j8Kg _Rd4Y4fS3Ed-fEdVde5j8Kg"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Rd2jsfS3Ed-fEdVde5j8Kg" covered="_PdbkEPS3Ed-fEdVde5j8Kg" event="_Pq-lIvJ4Ed-ZZ5dGsVd3wA" message="_Rd2jsPS3Ed-fEdVde5j8Kg"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Rd3KwPS3Ed-fEdVde5j8Kg" covered="_P0agsPS3Ed-fEdVde5j8Kg" event="_Pq-lJPJ4Ed-ZZ5dGsVd3wA" message="_Rd2jsPS3Ed-fEdVde5j8Kg"/>
+        <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_Rd4Y4PS3Ed-fEdVde5j8Kg" covered="_P0agsPS3Ed-fEdVde5j8Kg" start="_Rd3KwPS3Ed-fEdVde5j8Kg" finish="_Rd4Y4fS3Ed-fEdVde5j8Kg"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Rd4Y4fS3Ed-fEdVde5j8Kg" covered="_P0agsPS3Ed-fEdVde5j8Kg" event="_Pq-lIvJ4Ed-ZZ5dGsVd3wA" message="_Rd4_8PS3Ed-fEdVde5j8Kg"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Rd5nAPS3Ed-fEdVde5j8Kg" covered="_PdbkEPS3Ed-fEdVde5j8Kg" event="_Pq-lJPJ4Ed-ZZ5dGsVd3wA" message="_Rd4_8PS3Ed-fEdVde5j8Kg"/>
+        <message xmi:id="_Rd2jsPS3Ed-fEdVde5j8Kg" name="CalcularPuntuacioTecnica()" receiveEvent="_Rd3KwPS3Ed-fEdVde5j8Kg" sendEvent="_Rd2jsfS3Ed-fEdVde5j8Kg" connector="_Rd5nAfS3Ed-fEdVde5j8Kg"/>
+        <message xmi:id="_Rd4_8PS3Ed-fEdVde5j8Kg" name="CalcularPuntuacioTecnica()" messageSort="reply" receiveEvent="_Rd5nAPS3Ed-fEdVde5j8Kg" sendEvent="_Rd4Y4fS3Ed-fEdVde5j8Kg" connector="_Rd5nAfS3Ed-fEdVde5j8Kg"/>
+      </ownedBehavior>
+      <ownedAttribute xmi:id="_PdcLIPS3Ed-fEdVde5j8Kg" name="membre del Comité" type="_eC5e0PSaEd-yC7EwVMSx9g"/>
+      <ownedAttribute xmi:id="_P0bHwPS3Ed-fEdVde5j8Kg" name="sistema" type="_M7lmsPJ4Ed-ZZ5dGsVd3wA"/>
+    </packagedElement>
     <profileApplication xmi:id="_B2mPSPJ4Ed-ZZ5dGsVd3wA">
       <eAnnotations xmi:id="_B2mPSfJ4Ed-ZZ5dGsVd3wA" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
