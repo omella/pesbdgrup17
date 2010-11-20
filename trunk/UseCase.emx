@@ -1278,10 +1278,10 @@
       <ownedAttribute xmi:id="_qhFNEPS2Ed-fEdVde5j8Kg" name="persona" type="_oaxdIPSQEd-yC7EwVMSx9g"/>
       <ownedAttribute xmi:id="_qwHHkPS2Ed-fEdVde5j8Kg" name="sistema" type="_M7lmsPJ4Ed-ZZ5dGsVd3wA"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Collaboration" xmi:id="_ILjR4PS3Ed-fEdVde5j8Kg" name="CalculaPuntuacioTecnica">
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_J3--gPS3Ed-fEdVde5j8Kg" name="CalculaPuntuacioTecnica">
+    <packagedElement xmi:type="uml:Collaboration" xmi:id="_ILjR4PS3Ed-fEdVde5j8Kg" name="CalcularPuntuacioTecnica">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_J3--gPS3Ed-fEdVde5j8Kg" name="CalcularPuntuacioTecnica">
         <eAnnotations xmi:id="_J4CB0PS3Ed-fEdVde5j8Kg" source="uml2.diagrams">
-          <contents xmi:type="notation:Diagram" xmi:id="_J4CB0fS3Ed-fEdVde5j8Kg" type="Sequence" element="_J3--gPS3Ed-fEdVde5j8Kg" name="CalculaPuntuacioTecnica" measurementUnit="Himetric">
+          <contents xmi:type="notation:Diagram" xmi:id="_J4CB0fS3Ed-fEdVde5j8Kg" type="Sequence" element="_J3--gPS3Ed-fEdVde5j8Kg" name="CalcularPuntuacioTecnica" measurementUnit="Himetric">
             <children xmi:id="_J4CB0vS3Ed-fEdVde5j8Kg" element="_J3--gPS3Ed-fEdVde5j8Kg">
               <children xmi:id="_J4CB0_S3Ed-fEdVde5j8Kg" type="interaction_compartment">
                 <children xmi:id="_PdfOcPS3Ed-fEdVde5j8Kg" element="_PdbkEPS3Ed-fEdVde5j8Kg">
