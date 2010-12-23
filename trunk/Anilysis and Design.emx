@@ -423,6 +423,28 @@
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Bf0gQfJzEd-QttgP262uRA" fontName="Segoe UI" showStereotype="Label"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bf0gQvJzEd-QttgP262uRA" x="12144" y="6864"/>
         </children>
+        <children xmi:id="_9Z4PcA4aEeCLr4FNcOsUUg" element="_9ZxhwA4aEeCLr4FNcOsUUg">
+          <children xmi:id="_9Z5dkA4aEeCLr4FNcOsUUg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_9Z5dkQ4aEeCLr4FNcOsUUg" width="1320" height="1320"/>
+          </children>
+          <children xmi:id="_9Z5dkg4aEeCLr4FNcOsUUg" type="Stereotype"/>
+          <children xmi:id="_9Z6EoA4aEeCLr4FNcOsUUg" type="Name"/>
+          <children xmi:id="_9Z6EoQ4aEeCLr4FNcOsUUg" type="Parent"/>
+          <children xmi:id="_9Z6rsA4aEeCLr4FNcOsUUg" type="AttributeCompartment">
+            <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9Z6rsQ4aEeCLr4FNcOsUUg"/>
+          </children>
+          <children xmi:id="_9Z6rsg4aEeCLr4FNcOsUUg" type="OperationCompartment">
+            <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9Z6rsw4aEeCLr4FNcOsUUg"/>
+          </children>
+          <children xmi:id="_9Z7SwA4aEeCLr4FNcOsUUg" visible="false" type="SignalCompartment">
+            <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9Z7SwQ4aEeCLr4FNcOsUUg"/>
+          </children>
+          <children xmi:id="_9Z750A4aEeCLr4FNcOsUUg" visible="false" type="StructureCompartment">
+            <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_9Z750Q4aEeCLr4FNcOsUUg"/>
+          </children>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_9Z4PcQ4aEeCLr4FNcOsUUg" fontName="Segoe UI" showStereotype="Label"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Z4Pcg4aEeCLr4FNcOsUUg" x="22044" y="1452"/>
+        </children>
         <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_y9P1UdrREd-z2sCt1a_K-w"/>
         <element xsi:nil="true"/>
         <edges xmi:id="_dtGKE9rUEd-z2sCt1a_K-w" element="_dszPINrUEd-z2sCt1a_K-w" source="_Z_R0gNrUEd-z2sCt1a_K-w" target="_aq8AodrUEd-z2sCt1a_K-w">
@@ -1357,6 +1379,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NP6DIPJzEd-QttgP262uRA" value="1"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_9ZxhwA4aEeCLr4FNcOsUUg" name="Configuracions"/>
   </packagedElement>
   <profileApplication xmi:id="_58CBxeLCEd-q5fuR9-o-eg">
     <eAnnotations xmi:id="_58CBxuLCEd-q5fuR9-o-eg" source="http://www.eclipse.org/uml2/2.0.0/UML">

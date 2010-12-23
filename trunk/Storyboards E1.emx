@@ -641,7 +641,7 @@
           <children xmi:id="_Y_NcYgxdEeC5Xv31dxkCeg" type="Description">
             <element xsi:nil="true"/>
           </children>
-          <styles xmi:type="notation:ShapeStyle" xmi:id="_Y_NcYwxdEeC5Xv31dxkCeg" description="Persona" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Y_NcYwxdEeC5Xv31dxkCeg" description="Empleat Empresa" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
           <styles xmi:type="notation:TextStyle" xmi:id="_Y_NcZAxdEeC5Xv31dxkCeg"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_Y_NcZQxdEeC5Xv31dxkCeg"/>
           <element xsi:nil="true"/>
