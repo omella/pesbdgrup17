@@ -289,7 +289,7 @@
             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_N3HWmtrZEd-z2sCt1a_K-w"/>
           </children>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_N2-ModrZEd-z2sCt1a_K-w" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2-MotrZEd-z2sCt1a_K-w" x="15312" y="13992"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2-MotrZEd-z2sCt1a_K-w" x="16500" y="13596"/>
         </children>
         <children xmi:id="_nhOH0draEd-z2sCt1a_K-w" element="_nhOH0NraEd-z2sCt1a_K-w">
           <children xmi:id="_nhOH1NraEd-z2sCt1a_K-w" type="ImageCompartment">
@@ -365,7 +365,7 @@
           <children xmi:id="_E1f28NubEd-LiPQX3KRHSQ" type="Name"/>
           <children xmi:id="_E1geANubEd-LiPQX3KRHSQ" type="Parent"/>
           <children xmi:id="_E1geAdubEd-LiPQX3KRHSQ" type="AttributeCompartment">
-            <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_E1geAtubEd-LiPQX3KRHSQ"/>
+            <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_E1geAtubEd-LiPQX3KRHSQ" collapsed="true"/>
           </children>
           <children xmi:id="_E1hFENubEd-LiPQX3KRHSQ" type="OperationCompartment">
             <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_E1hFEdubEd-LiPQX3KRHSQ"/>
