@@ -9128,7 +9128,6 @@
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_jyMTwfoHEd-oxadAFvyAvw" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_jyMTwPoHEd-oxadAFvyAvw" value="1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_oJMJMPoHEd-oxadAFvyAvw" name="nom" visibility="private"/>
         <ownedAttribute xmi:id="_oxgGYPoHEd-oxadAFvyAvw" name="cuantitatEmpleats" visibility="private"/>
         <ownedAttribute xmi:id="_vN5iEPoHEd-oxadAFvyAvw" name="document" visibility="private" type="_rtFtwPoHEd-oxadAFvyAvw" association="_vN3F0PoHEd-oxadAFvyAvw">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_vN6wMPoHEd-oxadAFvyAvw" value="*"/>
@@ -9259,7 +9258,6 @@
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_e-i-kfoHEd-oxadAFvyAvw" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_e-i-kPoHEd-oxadAFvyAvw" value="1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_ngfxgPoHEd-oxadAFvyAvw" name="nom" visibility="private"/>
         <ownedAttribute xmi:id="_xcVIgPoHEd-oxadAFvyAvw" name="document" visibility="private" type="_rtFtwPoHEd-oxadAFvyAvw" association="_xcTTUPoHEd-oxadAFvyAvw">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_xcWWofoHEd-oxadAFvyAvw" value="*"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_xcWWoPoHEd-oxadAFvyAvw"/>
