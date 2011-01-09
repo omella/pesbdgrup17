@@ -845,7 +845,9 @@
       </contents>
     </eAnnotations>
     <ownedUseCase xmi:id="_KNKyAPfxEd-cNYu614klDQ" name="CrearConvocatoria"/>
-    <ownedUseCase xmi:id="_yWPjsPfxEd-cNYu614klDQ" name="RegistrarEmpresa"/>
+    <ownedUseCase xmi:id="_yWPjsPfxEd-cNYu614klDQ" name="RegistrarEmpresa">
+      <extensionPoint xmi:id="_KlqHkBvtEeCwU5tvb6lVJQ" name="Puntodeextensión1"/>
+    </ownedUseCase>
     <ownedUseCase xmi:id="_8v3p8PfxEd-cNYu614klDQ" name="MostrarDadesEmpresa"/>
     <ownedUseCase xmi:id="_A4NYUPfyEd-cNYu614klDQ" name="ModificarDadesEmpresa"/>
     <ownedUseCase xmi:id="_FCMFcPfyEd-cNYu614klDQ" name="CrearNovaProposta"/>
