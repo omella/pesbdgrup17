@@ -1,0 +1,1 @@
+Subversion pel projecte PESBD del grup 17 de l'assignatura
